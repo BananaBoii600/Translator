@@ -11,6 +11,7 @@ from tkinter import ttk
 root = Tk()
 root.title("Translator")
 root.geometry("880x300")
+root.resizable(False, False)
 
 #Functions
 def translate():
