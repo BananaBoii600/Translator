@@ -2,7 +2,7 @@
 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-**A translator app made in python using [GoogleTrans](https://pypi.org/project/googletrans/), [textblob](https://pypi.org/project/textblob/) and  tkinter***
+**A translator app made in python using [GoogleTrans](https://pypi.org/project/googletrans/), [textblob](https://pypi.org/project/textblob/) and  tkinter**
 
 The Code is clean and is clearly written
 
